@@ -1,7 +1,7 @@
 # Number Guessing Game (Randomised) - Python version
 # Created by: Khong Yin Jou
 # Date: 22/02/2026
-# Version: v1.0.0
+# Version: v1.1.0
 
 import random
 import config
